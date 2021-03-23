@@ -9,8 +9,8 @@ from youtube_search import YoutubeSearch
 app = Client(
     ":memory:",
     bot_token=bot_token,
-    api_id=6,
-    api_hash="eb06d4abfb49dc3eeb1aeb98ae0f581e",
+    api_id=3094422,
+    api_hash="78feeeaf96a36b19b55ab100836b0400",
 )
 
 queue=[]
